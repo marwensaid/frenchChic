@@ -1,8 +1,9 @@
 # frenchChic
 Project : build project with design architect
 
-Collaborator : 
-  -Marwén SAIDI
-  -Ayoub BENATHMANE
-  -Nabil
+##Collaborator :
+ 
+  -Marwén SAIDI <br>
+  -Ayoub BENATHMANE <br>
+  -Nabil <br>
   -Sara
