@@ -25,6 +25,16 @@ public class Client {
     
     public void creer(){}
 
+    public Client(String nom, String prenom, String login, String motdepasse, String adressedeFacturation, String adressedeLivraison, String numero) {
+        this.nom = nom;
+        this.prenom = prenom;
+        this.login = login;
+        this.motdepasse = motdepasse;
+        this.adressedeFacturation = adressedeFacturation;
+        this.adressedeLivraison = adressedeLivraison;
+        this.numero = numero;
+    }
+    
     public String getNom() {
         return nom;
     }

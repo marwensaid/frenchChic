@@ -10,5 +10,19 @@ package com.mbds.service.produit;
  * @author BENATHMANE
  */
 public class Catalogue {
+   
+        private String nom;
+
+    public Catalogue(String nom) {
+        this.nom = nom;
+    }
+
+    public String getNom() {
+        return nom;
+    }
+
+    public void setNom(String nom) {
+        this.nom = nom;
+    }
     
 }
