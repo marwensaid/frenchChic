@@ -5,10 +5,21 @@
  */
 package com.mbds.controller;
 
+import com.mbds.service.produit.Produit;
+
 /**
  *
  * @author BENATHMANE
  */
 public class SessionPasserCommande {
     
+    public void Identification(String login, String password){}
+    
+    public void Keyword(String motCle){}
+    
+    public void ProductSelected(Produit product){}
+    
+    public void ProductAdded(Produit product){}
+    
+    public void Connection(){}
 }
