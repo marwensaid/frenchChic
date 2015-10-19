@@ -5,7 +5,7 @@
  */
 package com.mbds.controller;
 
-import com.mbds.service.produit.Produit;
+import com.mbds.controller;
 
 /**
  *
