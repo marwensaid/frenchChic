@@ -7,6 +7,14 @@
         <element id="directory" name="classes">
           <element id="module-output" name="frenchChic" />
         </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Spring MVC-4.1.6.RELEASE" />
+          <element id="library" level="project" name="Hibernate Validator-5.0.1" />
+          <element id="library" level="project" name="JBoss Weld-2.0.3" />
+          <element id="library" level="project" name="Spring-4.1.6.RELEASE" />
+          <element id="library" level="project" name="PrimeFaces-5.2" />
+          <element id="library" level="project" name="Mojarra-2.2.1" />
+        </element>
       </element>
     </root>
   </artifact>
